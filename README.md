@@ -39,8 +39,8 @@ crypto-js or native Web Crypto API for encryption/decryption
 invisinote/
 
 ├── public/ 
-│   └── index.html 
-├── src/ 
+│   └── index.html
+├── src/
 │   ├── components/ 
 │   │   ├── Editor.jsx
 
