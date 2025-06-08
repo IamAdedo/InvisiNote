@@ -34,6 +34,7 @@ git clone https://github.com/IamAdedo/invisinote.git
 cd invisinote
 npm install
 npm run dev
+```
 
 Then open http://localhost:5173 in your browser.
 
@@ -70,7 +71,7 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 
-Built with ❤️ by IamAdedo
+Built with ❤️ by IamAdedo, dLazyHNTR 
 GitHub • Twitter • Blog
 
 
