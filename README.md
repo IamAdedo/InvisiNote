@@ -40,6 +40,7 @@ invisinote/
 
 ├── public/ 
 │   └── index.html
+|
 ├── src/
 │   ├── components/ 
 │   │   ├── Editor.jsx
