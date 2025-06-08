@@ -72,7 +72,8 @@ This project is licensed under the MIT License.
 🙋‍♂️ Author
 
 Built with ❤️ by IamAdedo, dLazyHNTR 
-GitHub • Twitter • Blog
+
+[https://github.com/IamAdedo](GitHub) • [https://x.com/IamAdedo](Twitter)
 
 
 ---
