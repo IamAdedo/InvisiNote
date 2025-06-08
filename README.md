@@ -37,19 +37,33 @@ crypto-js or native Web Crypto API for encryption/decryption
 ⚡ Folder Structure
 
 invisinote/
+
 ├── public/
+
 │   └── index.html
+
 ├── src/
+
 │   ├── components/
+
 │   │   ├── Editor.jsx
+
 │   │   ├── Previewer.jsx
+
 │   └── utils/
+
 │       └── crypto.js
+
 │   └── App.jsx
+
 │   └── index.js
+
 ├── .gitignore
+
 ├── package.json
+
 ├── README.md
+
 └── LICENSE
 
 
