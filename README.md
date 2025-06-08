@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 Built with ❤️ by IamAdedo, dLazyHNTR 
 
-[https://github.com/IamAdedo](GitHub) • [https://x.com/IamAdedo](Twitter)
+[GitHub](https://github.com/IamAdedo) • [X/Twitter](https://x.com/IamAdedo)
 
 
 ---
